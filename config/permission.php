@@ -2,6 +2,9 @@
 
 return [
 
+    'defaults' => [
+    'guard' => 'web',
+],
     'models' => [
 
         /*

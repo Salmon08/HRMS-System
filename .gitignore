@@ -22,10 +22,7 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
-/app/Http/Controllers/EmployeeController.php
 /app/Http/Controllers/EmployeeLeaveController.php
 /app/Models/EmployeeLeave.php
 /database/migrations/2025_06_24_102931_create_employee_leaves_table.php
-/resources/js/Layouts/Layout.vue
-/resources/js/Pages/Employees
 /resources/js/Pages/Leaves
